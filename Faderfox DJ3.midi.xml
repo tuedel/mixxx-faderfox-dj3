@@ -477,8 +477,8 @@
             <control>
                 <status>0xb3</status>
                 <midino>0x0</midino>
-                <group>[Channel1]</group>
-                <key>rate</key>
+                <group>[QuickEffectRack1_[Channel1]]</group>
+                <key>super1</key>
                 <description></description>
                 <options>
                     <normal/>
@@ -577,8 +577,8 @@
             <control>
                 <status>0xb3</status>
                 <midino>0x4</midino>
-                <group>[Channel2]</group>
-                <key>rate</key>
+                <group>[QuickEffectRack1_[Channel2]]</group>
+                <key>super1</key>
                 <description></description>
                 <options>
                     <normal/>
